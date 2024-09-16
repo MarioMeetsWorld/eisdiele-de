@@ -4,6 +4,7 @@ Eisdiele was a venture idea and bootstrapped project for a e-commerce store that
 
 
 Mockups:
+Before going into the full production of the website, the information architecture and desired webpage flow ware designed.
 ![image](https://github.com/user-attachments/assets/c150f79f-ff6f-4bfa-95a9-8b8743333521)
 ![image](https://github.com/user-attachments/assets/9de26496-2cc9-473b-a9f7-18449309d75d)
 
